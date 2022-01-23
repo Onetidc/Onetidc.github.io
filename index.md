@@ -1,3 +1,3 @@
-## Welcome to GitHub Pages
+## Welcome to Onetidc
 
-You can use the [editor on GitHub](https://github.com/Onetidc/Onetidc.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [Click](https://my.onet.vn) to maintain  
